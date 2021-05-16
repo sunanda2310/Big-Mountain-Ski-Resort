@@ -12,7 +12,7 @@ Big Mountain Resort has recently installed an additional chair-lift to help incr
 
 To maintain the annual profit margin at 9.2%
 
-# SCOPE OF SOLUTION SPACE:
+## SCOPE OF SOLUTION SPACE:
 
 1) Reviewing Ticket Pricing
 2) Suggesting type of activities to add or focus on. 
@@ -28,7 +28,7 @@ Serving 350,000 visitors
 Jimmy Blackburn – Director of Operations 
 Alesha Eisen – Database Manager
 
-# KEY DATA SOURCES:
+## KEY DATA SOURCES:
 
 CSV file with following information: § National resort data
 § Mountain elevation data
