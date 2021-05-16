@@ -30,8 +30,9 @@ Alesha Eisen – Database Manager
 
 ## KEY DATA SOURCES:
 
-CSV file with following information: § National resort data
-§ Mountain elevation data
-§ Chair-lift data
-§ Trail/run data
-§ Lift ticket cost data § Season data
+CSV file with following information: 
+* National resort data
+* Mountain elevation data
+* Chair-lift data
+* Trail/run data
+* Lift ticket cost data § Season data
