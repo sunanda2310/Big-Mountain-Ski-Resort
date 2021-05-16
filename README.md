@@ -20,13 +20,13 @@ To maintain the annual profit margin at 9.2%
 
 ## CONSTRAINTS WITHIN SOLUTION SPACE:
 
-Increased Operating cost of $1,540,000 for the additional chair-lift
-Serving 350,000 visitors
+* Increased Operating cost of $1,540,000 for the additional chair-lift
+* Serving 350,000 visitors
 
 ## STAKEHOLDERS TO PROVIDE KEY INSIGHT:
 
-Jimmy Blackburn – Director of Operations 
-Alesha Eisen – Database Manager
+* Jimmy Blackburn – Director of Operations 
+* Alesha Eisen – Database Manager
 
 ## KEY DATA SOURCES:
 
